@@ -84,19 +84,23 @@ The system goes beyond simple suggestions—it performs **skill gap analysis** a
 <div align="center">
 
 ### Home Page
-![Home Page](./screenshots/homepage.png)
+<img width="1919" height="914" alt="homepage" src="https://github.com/user-attachments/assets/c5eff57d-d7b1-492a-97ef-60079b9753a8" />
+
 *Clean, modern landing page with clear call-to-action*
 
 ### Dashboard
-![Dashboard](./screenshots/dashboard.png)
+<img width="1919" height="907" alt="dashboard" src="https://github.com/user-attachments/assets/b12f3356-40bd-47a3-8a26-c95abc27d916" />
+
 *Personalized dashboard with career recommendations and insights*
 
 ### Career Recommendations
-![Recommendations](./screenshots/recommendations.png)
+<img width="1919" height="912" alt="recommendations" src="https://github.com/user-attachments/assets/4410a342-6b71-4c8f-a4db-e22f93a07c61" />
+
 *AI-generated career suggestions with skill gap analysis*
 
 ### Chatbot Interface
-![Chatbot](./screenshots/chatbot.png)
+<img width="560" height="878" alt="chatbot" src="https://github.com/user-attachments/assets/dd3aaa64-7eb1-42f2-b8fc-bd04d5cd72b7" />
+
 *Interactive AI assistant for career guidance*
 
 </div>
@@ -573,3 +577,4 @@ If you find this project helpful, please consider giving it a ⭐!
 [⬆ Back to Top](#careerpath-ai-)
 
 </div>
+
